@@ -1,7 +1,7 @@
 ### Hi there, I'm Trevor 👋
 
-I am a Climate Scenarios and Services Specialist with [Ouranos](https://www.ouranos.ca/en)
-(@Ouranosinc), a member of the Climate Platforms, Data, and Operations (PCDO) team.
+I am a Climate Scenarios and Services Specialist with [Ouranos](https://www.ouranos.ca/en),
+a member of the Climate Platforms, Data, and Operations (PCDO) team.
 
 #### I'm interested in many things :
 

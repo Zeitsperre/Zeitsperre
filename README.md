@@ -3,7 +3,7 @@
 I am a Climate Scenarios and Services Specialist with [Ouranos](https://www.ouranos.ca/en),
 a member of the Climate Platforms, Data, and Operations (PCDO) team.
 
-#### I'm interested in many things :
+#### I'm interested in many things:
 
 - 🔭 I’m currently programming climate indicators in [`xclim`](https://github.com/Ouranosinc/xclim)
 - 🌱 I’m currently learning [Rust-lang](https://www.rust-lang.org) 🦀 and Korean 🇰🇷
@@ -11,12 +11,13 @@ a member of the Climate Platforms, Data, and Operations (PCDO) team.
 - 💬 Ask me about:
   - Climate Change, Remote Sensing, Data Science, GIS, Linux and the Open Source ecosystem.
 
-####  Getting in contact with me :
+####  Getting in contact with me:
 - 📫 How to reach me: 
   - Chat with me: [KeyBase](https://keybase.io/Zeitsperre/chat)
-- 😄 My pronouns: **He/Him**
+  - Send me encrypted email: 98B750FA
+- 😄 My pronouns are: **He/Him**
 
-- ⚡ Fun fact: [Bananas are berries!](https://en.wikipedia.org/wiki/Banana)
+Fun fact: [Bananas are berries!](https://en.wikipedia.org/wiki/Banana)
 
 [comment]: <> (- 🤔 I’m looking for help with ...)
 [comment]: <> (- 👯 I’m looking to collaborate on ...)

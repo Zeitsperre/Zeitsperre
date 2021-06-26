@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Trevor 👋
 
-<!--
-**Zeitsperre/Zeitsperre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Climate Scenarios and Services Specialist with [Ouranos](https://www.ouranos.ca/en)
+(@Ouranosinc), a member of the Climate Platforms, Data, and Operations (PCDO) team.
 
-Here are some ideas to get you started:
+#### I'm interested in many things :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on :
+  - Programming climate indicators in [`xclim`](https://github.com/Ouranosinc/xclim)
+- 🌱 I’m currently learning [Rust-lang](https://www.rust-lang.org) 🦀 and Korean 🇰🇷
+- 💬 Ask me about:
+  - Climate Change, Data Science, GIS, Linux and Open Source !
+- 📫 How to reach me: 
+  - Chat with me: [KeyBase](https://keybase.io/Zeitsperre/chat)
+- 😄 My pronouns: **He/Him**
+- ⚡ Fun fact: [Bananas are berries!](https://en.wikipedia.org/wiki/Banana)
+
+[comment]: <> (- 🤔 I’m looking for help with ...)
+[comment]: <> (- 👯 I’m looking to collaborate on ...)

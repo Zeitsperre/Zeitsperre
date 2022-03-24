@@ -19,5 +19,7 @@ a member of the Climate Platforms, Data, and Operations (PCDO) team.
 
 Fun fact: [Bananas are berries!](https://en.wikipedia.org/wiki/Banana)
 
+![Zeitsperre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeitsperre&show_icons=true&theme=tokyonight)
+
 [comment]: <> (- 🤔 I’m looking for help with ...)
 [comment]: <> (- 👯 I’m looking to collaborate on ...)
